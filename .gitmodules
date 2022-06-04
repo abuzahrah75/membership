@@ -1,0 +1,3 @@
+[submodule "yuran"]
+	path = yuran
+	url = https://github.com/abuzahrah75/yuran.git
